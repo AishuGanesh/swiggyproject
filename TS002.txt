@@ -1,0 +1,3 @@
+Open swiggy app
+enters Invalid username and password
+error message displays as"User does not exist"
