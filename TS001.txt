@@ -1,0 +1,6 @@
+testcase 1:
+open swiggy app
+click on login
+enter valid username
+enter valid password
+click on submit button
